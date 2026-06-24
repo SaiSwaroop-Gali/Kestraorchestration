@@ -1,7 +1,8 @@
 # Kestraorchestration
 ## Homework done in local system
 
-After trying the same prompt in ChatGPT vs Kestra's AI Copilot, what is the primary reason AI Copilot generates better Kestra flows?
+After trying the same prompt in ChatGPT vs Kestra's AI Copilot, what is the primary reason AI Copilot generates better Kestra flows? \n
+
 Answer: AI Copilot has access to current Kestra plugin documentation
 
 The non-RAG response about Kestra 1.1 features is best described as:
